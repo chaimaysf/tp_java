@@ -1,0 +1,4 @@
+fr/hetic/Calculateur.class
+fr/hetic/Operation.class
+fr/hetic/FileProcessor.class
+fr/hetic/FileProcessor$SyntaxErrorException.class
